@@ -1,6 +1,7 @@
 {
     "name": "Theories of Willpower Scale Survey",
     "template":"survey",
+    "url": "https://github.com/expfactory-experiments/theories-of-willpower-survey",
     "exp_id": "theories-of-willpower-survey",
     "cognitive_atlas_task_id": "trm_56a91a3082c31",
     "contributors": [
