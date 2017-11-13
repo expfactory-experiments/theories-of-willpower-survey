@@ -1,0 +1,17 @@
+{
+    "name": "Theories of Willpower Scale Survey",
+    "template":"survey",
+    "exp_id": "theories-of-willpower-survey",
+    "cognitive_atlas_task_id": "trm_56a91a3082c31",
+    "contributors": [
+             "Zeynep Enkavi",
+             "Ian Eisenberg",
+             "Patrick Bissett",
+             "Vanessa Sochat",
+             "Russell Poldrack"
+            ], 
+    "time":1,
+    "reference": ["http://pss.sagepub.com/content/early/2010/09/28/0956797610384745.full#sec-22"],
+    "description": "Experiment Factory survey",
+    "instructions": "Please answer the following questions to the best of your ability"
+}
